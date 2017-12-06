@@ -11,7 +11,7 @@ img[class|="kitty-1"] {
 /* Select the image with id of kitty-2 */
 
 /*__write_selector_here__*/
-img[id="kitty-2"] {
+img[id|="kitty-2"] {
   position: absolute;
   z-index: 2;
   top: 212px;
